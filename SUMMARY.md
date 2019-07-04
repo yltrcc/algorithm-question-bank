@@ -7,6 +7,7 @@
     * [LeetCode 2 add-two-numbers](1-leetcode/part1(1-500)/LeetCode-2-add-two-numbers.md)
     * [LeetCode 32 最长有效括号](1-leetcode/part1(1-500)/LeetCode-32-最长有效括号.md)
     * [LeetCode 53 Maximum-Subarray](1-leetcode/part1(1-500)/LeetCode-53-Maximum-Subarray.md)
+    * [LeetCode 62 不同路径](1-leetcode/part1(1-500)/LeetCode-62-不同路径.md)
   * [part2(501-1000)](1-leetcode/part2(501-1000)/README.md)
   * [part3(1000-1500)](1-leetcode/part3(1000-1500)/README.md)
   * [part4(1501-2000)](1-leetcode/part4(1501-2000)/README.md)
