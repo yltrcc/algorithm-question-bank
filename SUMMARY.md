@@ -9,6 +9,7 @@
     * [LeetCode 53 Maximum-Subarray](1-leetcode/part1(1-500)/LeetCode-53-Maximum-Subarray.md)
     * [LeetCode 62 不同路径](1-leetcode/part1(1-500)/LeetCode-62-不同路径.md)
     * [LeetCode 64 最小路径和](1-leetcode/part1(1-500)/LeetCode-64-最小路径和.md)
+    * [LeetCode 72 编辑距离](1-leetcode/part1(1-500)/LeetCode-72-编辑距离.md)
   * [part2(501-1000)](1-leetcode/part2(501-1000)/README.md)
   * [part3(1000-1500)](1-leetcode/part3(1000-1500)/README.md)
   * [part4(1501-2000)](1-leetcode/part4(1501-2000)/README.md)
