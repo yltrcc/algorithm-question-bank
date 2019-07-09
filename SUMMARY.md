@@ -12,6 +12,7 @@
     * [LeetCode 72 编辑距离](1-leetcode/part1(1-500)/LeetCode-72-编辑距离.md)
     * [LeetCode 102 二叉树的层序遍历](1-leetcode/part1(1-500)/LeetCode-102-二叉树的层序遍历.md)
     * [LeetCode 136 只出现一次的数字](1-leetcode/part1(1-500)/LeetCode-136-只出现一次的数字.md)
+    * [LeetCode 198 打家劫舍](1-leetcode/part1(1-500)/LeetCode-198-打家劫舍.md)
   * [part2(501-1000)](1-leetcode/part2(501-1000)/README.md)
   * [part3(1000-1500)](1-leetcode/part3(1000-1500)/README.md)
   * [part4(1501-2000)](1-leetcode/part4(1501-2000)/README.md)
