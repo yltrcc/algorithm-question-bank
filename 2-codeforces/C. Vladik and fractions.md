@@ -1,6 +1,6 @@
 # 题目链接
 
-
+[http://codeforces.com/problemset/problem/743/C](http://codeforces.com/problemset/problem/743/C)
 
 # Description
 
