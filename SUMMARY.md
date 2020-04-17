@@ -23,5 +23,7 @@
 * [2. codeforces](2-codeforces/README.md)
   * [Codeforces Round 384](2-codeforces/Codeforces-Round-384/README.md)
     * [C. Vladik and fractions](2-codeforces/Codeforces-Round-384/C.%20Vladik%20and%20fractions.md)
+* [3. nowcoder](3-nowcoder/README.md)
+  * 
 * [20. 算法理论](20-算法理论/README.md)
 
