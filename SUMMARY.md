@@ -25,5 +25,6 @@
     * [C. Vladik and fractions](2-codeforces/Codeforces-Round-384/C.%20Vladik%20and%20fractions.md)
 * [3. nowcoder](3-nowcoder/README.md)
   * [NC14612](3-nowcoder/NC14612.md)
+  * [NC14835](3-nowcoder/NC14835.md)
 * [20. 算法理论](20-算法理论/README.md)
 
