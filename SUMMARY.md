@@ -19,8 +19,8 @@
   * [part3(1000-1500)](1-leetcode/part3(1000-1500)/README.md)
   * [part4(1501-2000)](1-leetcode/part4(1501-2000)/README.md)
   * [part5(2000-2500)](1-leetcode/part5(2000-2500)/README.md)
-* [2. codeforces](2-codeforces/README.md)
-  * [Codeforces Round 384](2-codeforces/Codeforces-Round-384/README.md)
-    * [C. Vladik and fractions](2-codeforces/Codeforces-Round-384/C.%20Vladik%20and%20fractions.md)
+* [2. codeforces](3-codeforces/README.md)
+  * [Codeforces Round 384](3-codeforces/Codeforces-Round-384/README.md)
+    * [C. Vladik and fractions](3-codeforces/Codeforces-Round-384/C.%20Vladik%20and%20fractions.md)
 * [20. 算法理论](20-算法理论/README.md)
 
