@@ -23,6 +23,7 @@
 * [2. nowcoder](2-nowcoder/README.md)
   * [NC14612](2-nowcoder/NC14612.md)
   * [NC14835](2-nowcoder/NC14835.md)
+  * [NC15253 白兔的字符串](2-nowcoder/NC15253-白兔的字符串.md)
 * [3. codeforces](3-codeforces/README.md)
   * [Codeforces Round 384](3-codeforces/Codeforces-Round-384/README.md)
     * [C. Vladik and fractions](3-codeforces/Codeforces-Round-384/C.%20Vladik%20and%20fractions.md)
