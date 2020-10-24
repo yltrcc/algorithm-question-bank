@@ -5,6 +5,7 @@
   * [part1(1-500)](1-leetcode/part1(1-500)/README.md)
     * [LeetCode 1 two sum](1-leetcode/part1(1-500)/LeetCode-1-two-sum.md)
     * [LeetCode 2 add-two-numbers](1-leetcode/part1(1-500)/LeetCode-2-add-two-numbers.md)
+    * [LeetCode 26 删除有序数组中的重复项](1-leetcode/part1(1-500)/LeetCode-26-删除有序数组中的重复项.md)
     * [LeetCode 27 移除元素](1-leetcode/part1(1-500)/LeetCode-27-移除元素.md)
     * [LeetCode 32 最长有效括号](1-leetcode/part1(1-500)/LeetCode-32-最长有效括号.md)
     * [LeetCode 53 Maximum-Subarray](1-leetcode/part1(1-500)/LeetCode-53-Maximum-Subarray.md)
