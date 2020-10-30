@@ -62,7 +62,7 @@ for (int i = 0; i < len; i++) {
 
 这道题序列已经排序，那么像删除重复的项，只需要比对 $a^i 和 a_{i-1}$相等说明重复，不相等说明不重复。
 
-这样的话就可以使用一个技巧：双指针法
+这样的话就可以使用一个技巧：[双指针法](https://algorithm.ylcoder.top/20-suan-fa-ji-qiao-pian/6-shuang-zhi-zhen-fa#kuai-man-zhi-zhen)
 
 - 快指针 fast表示遍历的下标位置，判断该项目和它的前一项，满指针 slow表示下一个不同元素要填入的下标位置，初始时两个指针都指向1
 
