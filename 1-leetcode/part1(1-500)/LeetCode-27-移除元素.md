@@ -61,7 +61,7 @@ for (int i = 0; i < len; i++) {
 
 双指针法模板题。
 
-具体算法请参考：双指针法
+具体算法请参考：[双指针法](https://algorithm.ylcoder.top/20-suan-fa-ji-qiao-pian/6-shuang-zhi-zhen-fa#kuai-man-zhi-zhen)
 
 
 
