@@ -3,6 +3,7 @@
 * [简介](README.md)
 * [1. leetcode](1-leetcode/README.md)
   * [part1(1-500)](1-leetcode/part1(1-500)/README.md)
+    * [LeetCode 1 two sum](1-leetcode/part1(1-500)/LeetCode-1-two-sum.md)
   * [part2(501-1000)](1-leetcode/part2(501-1000)/README.md)
   * [part3(1000-1500)](1-leetcode/part3(1000-1500)/README.md)
   * [part4(1501-2000)](1-leetcode/part4(1501-2000)/README.md)
