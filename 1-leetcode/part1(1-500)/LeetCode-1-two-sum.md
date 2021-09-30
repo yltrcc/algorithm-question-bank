@@ -86,7 +86,10 @@ class Solution {
 #### 题解二：哈希表
 
 ```Java
-//思路：枚举数组中的每一个数 x，寻找数组中是否存在 target - x，这里可以使用哈希，Map<Integer, Integer>值和下标
+/**
+ * 思路：枚举数组中的每一个数 x，寻找数组中是否存在 target - x，
+ *   这里可以使用哈希，Map<Integer, Integer>值和下标
+ */
 class Solution {
     public int[] twoSum(int[] nums, int target) {
         HashMap<Integer, Integer> maps = new HashMap<>();
